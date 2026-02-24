@@ -1,4 +1,4 @@
-# Info
+# How-to Guides
 
 <!-- TODO: Add front matter with title, description, and icon -->
 
